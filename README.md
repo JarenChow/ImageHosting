@@ -1,2 +1,2 @@
-# ImgHosting
+# ImageHosting
 Image Hosting.
